@@ -1,0 +1,16 @@
+# Основной способ установки: environment.yml (рекомендуется conda)
+# Этот файл — для пользователей pip
+
+numpy==2.4.6
+pandas==3.0.3
+scikit-learn==1.8.0
+lightgbm==4.6.0
+catboost==1.2.10
+duckdb==1.5.3
+optuna==4.9.0
+phik==0.12.5
+psutil>=5.9.0
+matplotlib>=3.8.0
+seaborn>=0.13.0
+jupyter>=1.0.0
+ipykernel>=6.0.0

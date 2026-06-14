@@ -1,0 +1,23 @@
+# Данные
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.ipynb_checkpoints/
+
+# Модели и артефакты
+*.pkl
+*.joblib
+*.cbm
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+catboost_info/
+*.pdf
+*.docx
